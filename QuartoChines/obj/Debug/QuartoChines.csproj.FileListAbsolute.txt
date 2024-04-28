@@ -1,0 +1,35 @@
+C:/Users/fontm/Desktop/Projetos ScrelProg/Topico 3/QuartoChines/QuartoChines/bin/Debug/QuartoChines.exe.config
+C:/Users/fontm/Desktop/Projetos ScrelProg/Topico 3/QuartoChines/QuartoChines/bin/Debug/QuartoChines.exe
+C:/Users/fontm/Desktop/Projetos ScrelProg/Topico 3/QuartoChines/QuartoChines/bin/Debug/QuartoChines.pdb
+C:/Users/fontm/Desktop/Projetos ScrelProg/Topico 3/QuartoChines/QuartoChines/obj/Debug/QuartoChines.csprojAssemblyReference.cache
+C:/Users/fontm/Desktop/Projetos ScrelProg/Topico 3/QuartoChines/QuartoChines/obj/Debug/QuartoChines.csproj.CoreCompileInputs.cache
+C:/Users/fontm/Desktop/Projetos ScrelProg/Topico 3/QuartoChines/QuartoChines/obj/Debug/QuartoChines.exe
+C:/Users/fontm/Desktop/Projetos ScrelProg/Topico 3/QuartoChines/QuartoChines/obj/Debug/QuartoChines.pdb
+C:/Users/fontm/Desktop/Projetos ScrelProg/Codigos/Topico 3/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe.config
+C:/Users/fontm/Desktop/Projetos ScrelProg/Codigos/Topico 3/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe
+C:/Users/fontm/Desktop/Projetos ScrelProg/Codigos/Topico 3/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.pdb
+C:/Users/fontm/Desktop/Projetos ScrelProg/Codigos/Topico 3/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csprojAssemblyReference.cache
+C:/Users/fontm/Desktop/Projetos ScrelProg/Codigos/Topico 3/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csproj.CoreCompileInputs.cache
+C:/Users/fontm/Desktop/Projetos ScrelProg/Codigos/Topico 3/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.exe
+C:/Users/fontm/Desktop/Projetos ScrelProg/Codigos/Topico 3/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.pdb
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csprojAssemblyReference.cache
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csproj.CoreCompileInputs.cache
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.exe
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.pdb
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe.config
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.pdb
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe.config
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.pdb
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csprojAssemblyReference.cache
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csproj.CoreCompileInputs.cache
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.exe
+C:/Users/leone/Desktop/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.pdb
+/Users/vitorfrango/Library/CloudStorage/OneDrive-UniversidadeAberta/2 Ano/Laboratorio Desenvolvimento Software/AFS/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe.config
+/Users/vitorfrango/Library/CloudStorage/OneDrive-UniversidadeAberta/2 Ano/Laboratorio Desenvolvimento Software/AFS/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.exe
+/Users/vitorfrango/Library/CloudStorage/OneDrive-UniversidadeAberta/2 Ano/Laboratorio Desenvolvimento Software/AFS/QuartoChines CodigoInicial/QuartoChines/bin/Debug/QuartoChines.pdb
+/Users/vitorfrango/Library/CloudStorage/OneDrive-UniversidadeAberta/2 Ano/Laboratorio Desenvolvimento Software/AFS/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csproj.AssemblyReference.cache
+/Users/vitorfrango/Library/CloudStorage/OneDrive-UniversidadeAberta/2 Ano/Laboratorio Desenvolvimento Software/AFS/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.csproj.CoreCompileInputs.cache
+/Users/vitorfrango/Library/CloudStorage/OneDrive-UniversidadeAberta/2 Ano/Laboratorio Desenvolvimento Software/AFS/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.exe
+/Users/vitorfrango/Library/CloudStorage/OneDrive-UniversidadeAberta/2 Ano/Laboratorio Desenvolvimento Software/AFS/QuartoChines CodigoInicial/QuartoChines/obj/Debug/QuartoChines.pdb
